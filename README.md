@@ -1,29 +1,30 @@
-# WebDesign-Challenge - Web Visualization Dashboard (Latitude)
+# WebDesign-Challenge - WebÂ VisualizationÂ DashboardÂ (Latitude)
 
-## Background
+##Â Background
 
-This Project utilizes HTML, CSS and Bootstrap along with Python (Jupyter Notebook using pandas, matplotlib and numpy libraries) to analyze Cities data to find relationship between cities latitude Vs. Temperature, Humidity, Cloudiness and Wind Speed using Scatter Plots. The scatter plot reveals correlation (positive, negative or no correlation ) in a large amount of data.
+ThisÂ ProjectÂ utilizesÂ HTML, CSSÂ and Bootstrap alongÂ withÂ PythonÂ (JupyterÂ NotebookÂ usingÂ pandas,Â matplotlibÂ andÂ numpyÂ libraries) to analyze Cities data to find relationship between cities latitude Vs. Temperature, Humidity, Cloudiness and Wind Speed using Scatter Plots. The scatter plot reveals correlation (positive, negative or no correlation ) in a large amount of data.
 
-Individual pages for each plot have been created using jupyter notebook  along with the means by which we can navigate between them.
+IndividualÂ pagesÂ forÂ eachÂ plotÂ haveÂ beenÂ createdÂ using jupyter notebook  alongÂ withÂ theÂ meansÂ byÂ whichÂ weÂ canÂ navigateÂ betweenÂ them.
 
-These pages contain the visualizations and their corresponding explanations. 
+TheseÂ pagesÂ containÂ theÂ visualizationsÂ andÂ theirÂ correspondingÂ explanations.Â 
 
-There is an index page (landing page), a comparison page where we can see a comparison of all of the plots, and Data page where we can view the data used to build the vizualizations.
+ThereÂ isÂ an index pageÂ (landingÂ page), a comparison pageÂ whereÂ weÂ canÂ seeÂ aÂ comparisonÂ ofÂ allÂ ofÂ theÂ plots,Â andÂ DataÂ pageÂ whereÂ weÂ canÂ viewÂ theÂ dataÂ usedÂ toÂ buildÂ theÂ vizualizations.
 
 The Data page is converted to .html file using a jupyter notebook and then this .html file is loaded into the Data page.
 
-The dashboard can be viewed at:  https://humsshaik.github.io/WebDesign-Challenge/
-## Notes
+TheÂ dashboardÂ canÂ beÂ viewedÂ at:Â Â https://humsshaik.github.io/WebDesign-Challenge/
 
-This folder contains:
+##Â Notes
 
-* A Resources folder that contains the cities.csv file.
+ThisÂ folderÂ contains:
 
-* There are Seven HTML files that has entire dashboard content.
+*Â AÂ ResourcesÂ folderÂ thatÂ containsÂ theÂ cities.csvÂ file.
 
-* A styles.css file that contains additional styling to the website, including image centering, navbar background color, media queries, color changes on hover, etc. in visualizations
+*Â There are Seven HTML files that has entire dashboard content.
 
-* A Jupyter notebook called `Web-Design-Challenge.ipynb` that was used to read the CSV file into a dataframe and convert that into an HTML table to use in the website and also plots were created which are stored in the folder.
+*Â AÂ styles.cssÂ fileÂ thatÂ containsÂ additionalÂ stylingÂ toÂ theÂ website,Â includingÂ imageÂ centering,Â navbarÂ backgroundÂ color,Â mediaÂ queries,Â colorÂ changesÂ onÂ hover,Â etc. in visualizations
+
+*Â AÂ JupyterÂ notebookÂ calledÂ `Web-Design-Challenge.ipynb`Â thatÂ wasÂ usedÂ toÂ readÂ theÂ CSVÂ fileÂ intoÂ aÂ dataframeÂ andÂ convertÂ thatÂ intoÂ anÂ HTMLÂ tableÂ toÂ useÂ inÂ theÂ website and also plots were created which are stored in the folder.
 
 ### Website Requirements
 
