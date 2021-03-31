@@ -1,6 +1,4 @@
-# WebDesign-Challenge
-
-# Web-Design-Challenge - Web Visualization Dashboard (Latitude)
+# WebDesign-Challenge - Web Visualization Dashboard (Latitude)
 
 ## Background
 
@@ -14,21 +12,18 @@ There is an index page (landing page), a comparison page where we can see a comp
 
 The Data page is converted to .html file using a jupyter notebook and then this .html file is loaded into the Data page.
 
-The dashboard can be viewed at: https://github.com/HumsShaik/Web-Design-Challenge.git
-
+The dashboard can be viewed at:  https://humsshaik.github.io/WebDesign-Challenge/
 ## Notes
 
 This folder contains:
 
-* A `Resources` folder that contains the `cities.csv` file.
+* A Resources folder that contains the cities.csv file.
 
-* An `Images` folder that contains the four visualization plots from the analysis using Jupyter Notebook.
+* There are Seven HTML files that has entire dashboard content.
 
-* A `Visualizations` folder that contains Seven HTML files that has entire dashboard content.
+* A styles.css file that contains additional styling to the website, including image centering, navbar background color, media queries, color changes on hover, etc. in visualizations
 
-* A `styles.css` file that contains additional styling to the website, including image centering, navbar background color, media queries, color changes on hover, etc. in visualizations
-
-* A Jupyter notebook called `Web-Design-Challenge.ipynb` that was used to read the CSV file into a dataframe and convert that into an HTML table to use in the website and also plots were created which are stored in images folder.
+* A Jupyter notebook called `Web-Design-Challenge.ipynb` that was used to read the CSV file into a dataframe and convert that into an HTML table to use in the website and also plots were created which are stored in the folder.
 
 ### Website Requirements
 
